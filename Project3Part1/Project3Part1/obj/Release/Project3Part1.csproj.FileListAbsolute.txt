@@ -1,0 +1,7 @@
+C:\Users\colin\OneDrive\Desktop\Project3Part1\Project3Part1\bin\Release\Project3Part1.exe.config
+C:\Users\colin\OneDrive\Desktop\Project3Part1\Project3Part1\bin\Release\Project3Part1.exe
+C:\Users\colin\OneDrive\Desktop\Project3Part1\Project3Part1\bin\Release\Project3Part1.pdb
+C:\Users\colin\OneDrive\Desktop\Project3Part1\Project3Part1\obj\Release\Project3Part1.csprojAssemblyReference.cache
+C:\Users\colin\OneDrive\Desktop\Project3Part1\Project3Part1\obj\Release\Project3Part1.csproj.CoreCompileInputs.cache
+C:\Users\colin\OneDrive\Desktop\Project3Part1\Project3Part1\obj\Release\Project3Part1.exe
+C:\Users\colin\OneDrive\Desktop\Project3Part1\Project3Part1\obj\Release\Project3Part1.pdb
